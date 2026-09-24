@@ -1,0 +1,11 @@
+[package]
+name = "selector-db"
+version = "0.1.0"
+edition = "2021"
+description = "A curated 4-byte function selector registry, both directions"
+license = "MIT"
+repository = "https://github.com/yuniyunanie250-lgtm/selector-db"
+keywords = ["ethereum", "evm", "selector"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
